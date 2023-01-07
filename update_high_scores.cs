@@ -8,9 +8,4 @@ public class update_high_scores : MonoBehaviour {
 	void Start () {
 		
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
